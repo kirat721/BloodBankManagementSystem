@@ -2,8 +2,8 @@
 This project is part of my academic subject Software Engineering. In this, my team and I created a website to manage and regulate blood supply between the blood banks and the hospitals, It provides a great interface for the blood donors and receivers. This website is created with sole purpose of promoting blood donation for the need of our society.
 
 This project is created for two users:
--Donors/Receivers
--Hospitals/Clinics(Doctors)
+- Donors/Receivers
+- Hospitals/Clinics(Doctors)
 This website acts like a medium/an intermediate between hospitals/clinics and donors/receivers.
 
 Languages used:
