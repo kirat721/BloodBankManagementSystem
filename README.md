@@ -7,9 +7,9 @@ This project is created for two users:
 This website acts like a medium/an intermediate between hospitals/clinics and donors/receivers.
 
 Languages used:
-1. Frontend: HTML, CSS, Bootstrap, JavaScript.
-2. Backend: Database-MySQL.
-3. Frontend-Backend connection: PHP.
+- Frontend: HTML, CSS, Bootstrap, JavaScript
+- Backend: Database-MySQL
+- Frontend-Backend connection: PHP
 
 Features of this system:
 - Hospitals can:
